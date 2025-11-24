@@ -8,7 +8,7 @@ Tenho experiência com React, Node.js e Python, e adoro transformar ideias em so
 ##
 
 <div align="center"><h3>📊 Minhas estatísticas!<br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMussoline&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMussoline&show_icons=true&theme=tokyonight"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMussoline&layout=compact&theme=tokyonight"/>
 </div>
 
