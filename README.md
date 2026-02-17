@@ -1,8 +1,8 @@
 <div align="center">
 
 ## Olá! Eu sou o Victor Mussoline! ☕
-Sou desenvolvedor full-stack apaixonado por tecnologia e inovação. <br>
-Tenho experiência com React, Node.js e Python, e adoro transformar ideias em soluções digitais.
+Desenvolvedor full-stack apaixonado por tecnologia e inovação. <br>
+Tenho experiência com React, Typescript e Python ─ Vivo de transformar ideias em soluções digitais.
 </div>
 
 ##
