@@ -1,20 +1,20 @@
 <div align="center">
 
-## Olá! Eu sou o Victor Mussoline! ☕
-Desenvolvedor full-stack apaixonado por tecnologia e inovação. <br>
-Tenho experiência com React, Typescript e Python ─ Vivo de transformar ideias em soluções digitais.
+## Hi! I'm Victor Mussoline! ☕
+Full-stack developer passionate about technology and innovation. <br>
+Experienced in React, TypeScript, and Python ─ I live to transform ideas into digital solutions.
 </div>
 
 ##
 
-<div align="center"><h3>📊 Minhas estatísticas!<br><br>
+<div align="center"><h3>📊 My Stats!<br><br>
   <img height="180em" src="https://github-readme-stats-flame-xi-70.vercel.app/api?username=VictorMussoline&show_icons=true&theme=tokyonight"/> 
   <img height="180em" src="https://github-readme-stats-flame-xi-70.vercel.app/api/top-langs/?username=VictorMussoline&layout=compact&theme=tokyonight"/>
 </div>
 
 ##
 
-<h3 align="center">💻 Tecnologias com as quais trabalho:
+<h3 align="center">💻 Technologies I work with:
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,7 +27,7 @@ Tenho experiência com React, Typescript e Python ─ Vivo de transformar ideias
 
 ##
 
-<h3 align="center">🚀 Vamos nos conectar:
+<h3 align="center">🚀 Let's connect:
 <div align="center"><br>
   <a href="https://instagram.com/victormussoline" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victormussoline" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
