@@ -31,7 +31,6 @@ Passionate about technology, innovation, and visual storytelling ─ I live to t
   
   <br><br>
   
-  <img align="center" alt="Victor-Canon" height="28" src="https://img.shields.io/badge/-Photography_/_Canon-%23000000?style=flat&logo=canon&logoColor=white">
   <img align="center" alt="Victor-Hardware" height="28" src="https://img.shields.io/badge/-Tech_Support_/_Hardware-%234A5568?style=flat&logo=itunes&logoColor=white">
 </div>
 
