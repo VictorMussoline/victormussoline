@@ -1,8 +1,8 @@
 <div align="center">
 
 ## Hi! I'm Victor Mussoline! ☕
-Full-stack developer passionate about technology and innovation. <br>
-Experienced in React, TypeScript, and Python ─ I live to transform ideas into digital solutions.
+Full-stack developer, professional photographer, and computer technician. <br>
+Passionate about technology, innovation, and visual storytelling ─ I live to transform ideas into digital and visual solutions.
 </div>
 
 ##
@@ -14,15 +14,25 @@ Experienced in React, TypeScript, and Python ─ I live to transform ideas into 
 
 ##
 
-<h3 align="center">💻 Technologies I work with:
-<div align="center" style="display: inline_block"><br>
+<h3 align="center">💻 Technologies & Skills I work with:
+<div align="center"><br>
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Victor-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Victor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="Victor-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Victor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Victor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Victor-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+  <img align="center" alt="Victor-Supabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg">
   <img align="center" alt="Victor-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+  
+  <br><br>
+  
+  <img align="center" alt="Victor-Canon" height="28" src="https://img.shields.io/badge/-Photography_/_Canon-%23000000?style=flat&logo=canon&logoColor=white">
+  <img align="center" alt="Victor-Hardware" height="28" src="https://img.shields.io/badge/-Tech_Support_/_Hardware-%234A5568?style=flat&logo=itunes&logoColor=white">
 </div>
 
 ##
