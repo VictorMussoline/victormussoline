@@ -89,7 +89,7 @@ infrastructure to the software running on top of them.
 
 <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
 
-<img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/linux/linux-original.svg">
+<img alt="Arch Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
 
 </div>
 
